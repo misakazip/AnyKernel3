@@ -6,14 +6,14 @@
 properties() { '
 kernel.string=ExampleKernel by osm0sis @ xda-developers
 do.devicecheck=1
-do.modules=0
+do.modules=1
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
-device.name4=tuna
+device.name1=vili
+device.name2=
+device.name3=
+device.name4=
 device.name5=
 supported.versions=
 supported.patchlevels=
